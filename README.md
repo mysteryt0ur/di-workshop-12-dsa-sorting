@@ -46,6 +46,8 @@ console.log(ary);
 
 **1. Read the code to understand how it works before running it.**
 
+The function bubblesort is used to test all of the integers within the array 'ary' to sort them into order from lowest number to highest number. The function sorts through the first item in the array and compares this to the next number, if the number is larger then the system will swap the positioning of these two numbers. This will then continue for the rest of the line. Once the line is complete, the function has been told to continue this process until the items can no longer be swapped. Once the line is correct, the function is rendered false and the console will log the full and rightly organised array. 
+
 **2. Confirm that it works in Node**
 
 **3. Try changing the integers in the array. Does it still work?**
